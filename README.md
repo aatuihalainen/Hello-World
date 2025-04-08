@@ -1,5 +1,9 @@
 Aatu Ihalainen, tässä repositoriossa harjoitellaan githubin käyttöä.
 
-# Otsikko
-## Toisen tason otsikko
-### Kolmannen tason otsikko
+# Versionhallinta
+Koodista saadaan tallennettua eri versioita, jotka ovat kaikkien käyttäjien saatavissa.
+## Varmuuskopiointi
+Koodi saadaan varmuuskopioitua.
+### Jaettavuus
+Koodi on helppo jakaa muille, jotka sitä tarvitsevat.
+
