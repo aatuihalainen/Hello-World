@@ -1,1 +1,1 @@
-# Hello-World
+Aatu Ihalainen, tässä repositoriossa harjoitellaan githubin käyttöä.
